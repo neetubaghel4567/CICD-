@@ -11,5 +11,5 @@ steps:
   - run
   - --filename=k8s/
   - --image=gcr.io/the-current-project/nginx:v1
-  - --location=us-central-a
+  - --location=us-central1-a
   - --cluster=new-cluster-1
